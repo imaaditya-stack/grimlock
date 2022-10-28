@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon bot.js"
+    "start": "nodemon grimlock.js"
   },
   "dependencies": {
     "chalk": "4.1.2",
